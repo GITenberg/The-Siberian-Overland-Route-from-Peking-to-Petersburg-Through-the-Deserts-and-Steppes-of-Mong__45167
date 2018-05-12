@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '41844'
     url: http://www.gutenberg.org/2009/agents/41844
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45167#The-Siberian-Overland-Route-from-Peking-to-Petersburg-Through-the-Deserts-and-Steppes-of-Mong_
 gutenberg_issued: '2014-03-18'
 gutenberg_type: Text
 identifiers:
