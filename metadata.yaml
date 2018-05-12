@@ -1,0 +1,31 @@
+_repo: The-Siberian-Overland-Route-from-Peking-to-Petersburg-Through-the-Deserts-and-Steppes-of-Mong__45167
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45167-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Michie, Alexander
+    birthdate: 1833
+    deathdate: 1902
+    gutenberg_agent_id: '41844'
+    url: http://www.gutenberg.org/2009/agents/41844
+description: ''
+gutenberg_issued: '2014-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45167'
+  lccn: '05014125'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Siberia (Russia) -- Description and travel'
+- !lcc 'DK'
+- !lcsh 'China -- Description and travel'
+title: 'The Siberian Overland Route from Peking to Petersburg,
+
+  Through the Deserts and Steppes of Mongolia, Tartary, &c.'
+url: http://www.gutenberg.org/ebooks/45167
